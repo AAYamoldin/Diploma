@@ -5,8 +5,8 @@
 *solvers*
 *constants*
 *requirements*
-./pulse/common
-./pulse/logs
-./pulse/scripts
-./pulse/solvers
-./pulse/constants
+/pulse/common
+/pulse/logs
+/pulse/scripts
+/pulse/solvers
+/pulse/constants
