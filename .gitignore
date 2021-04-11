@@ -1,1 +1,12 @@
 *solver*
+*common*
+*logs*
+*scripts*
+*solvers*
+*constants*
+*requirements*
+/pulse/common/*
+/pulse/logs/*
+/pulse/scripts/*
+/pulse/solvers/*
+/pulse/constants/*
