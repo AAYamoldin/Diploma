@@ -1,32 +1,32 @@
-## ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РАБОТА
+# ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РАБОТА
 
-# ОЦЕНКА ДИАПАЗОНА ФИЗИЧЕСКИХ ПАРАМЕТРОВ СКВАЖИННЫХ КОНСТРУКЦИЙ НА ОСНОВЕ АНАЛИЗА ОТКЛИКОВ МАГНИТНО-ИМПУЛЬСНОГО ДЕФЕКТОСКОПА PULSE-3E С ИСПОЛЬЗОВАНИЕМ ИСКУССТВЕННОЙ НЕЙРОННОЙ СЕТИ
+## ОЦЕНКА ДИАПАЗОНА ФИЗИЧЕСКИХ ПАРАМЕТРОВ СКВАЖИННЫХ КОНСТРУКЦИЙ НА ОСНОВЕ АНАЛИЗА ОТКЛИКОВ МАГНИТНО-ИМПУЛЬСНОГО ДЕФЕКТОСКОПА PULSE-3E С ИСПОЛЬЗОВАНИЕМ ИСКУССТВЕННОЙ НЕЙРОННОЙ СЕТИ
 
 [![N|Solid](./Pictures/README/KFU.PNG)](https://kpfu.ru/physics)
-#####
+### Совместно с 
 [<img src="./Pictures/README/TGT.jpeg" width="480" height="150">](https://tgtdiagnostics.com/)
 
 ## Авторы
 
 ### :boy: Ямолдин Александр Алексеевич
-#### [<img src="./Pictures/README/telegram.png" width="50" height="50">](https://t.me/AAYamoldin)   [<img src="./Pictures/README/hh.png" width="50" height="50">](https://kazan.hh.ru/resume/6b8efacbff077b7cc40039ed1f316d54674934)    :email: [AAYamoldin@gmail.com](aayamoldin@gmail.com)
+#### [<img src="./Pictures/README/telegram.png" width="50" height="50">](https://t.me/AAYamoldin)   [<img src="./Pictures/README/hh.png" width="50" height="50">](https://kazan.hh.ru/resume/6b8efacbff077b7cc40039ed1f316d54674934)    [:email:](aayamoldin@gmail.com)
 
 ### :woman: [Масленникова Юлия Сергеевна](https://kpfu.ru/juliya.maslennikova)
 
 ## Опубликованные материалы и результаты
 #### :page_facing_up: [Статья](https://kmu.itmo.ru/digests/article/7374) в сборнике тезисов Х Конгресса молодых ученых
-#### :tada: [Диплом победителя](./Pictures/README/KMU.png) в [конкурсе докладов](https://abit.itmo.ru/page/178/) X Конгресса молодых ученых 
+#### :tada: [Диплом победителя](https://disk.yandex.ru/i/xeyjgrWXjmIdkA) в [конкурсе докладов](https://abit.itmo.ru/page/178/) X Конгресса молодых ученых 
 
 ###
 
 #### :page_facing_up: Статья в [сборнике тезисов](https://smit-conference.ru/wp-content/uploads/2021/06/smit_broshure_2021_web.pdf) [Молодежной конференции по математическому моделированию и информационным технологиям SMIT](https://smit-conference.ru/)
-#### :tada: [Диплом победителя](./Pictures/README/SMIT.png) в [Молодежной конференции по математическому моделированию и информационным технологиям SMIT](https://smit-conference.ru/)
+#### :tada: [Диплом победителя](https://disk.yandex.ru/i/9MOHYZWsR-9XtA) в [Молодежной конференции по математическому моделированию и информационным технологиям SMIT](https://smit-conference.ru/)
 
 ###
 
 #### :page_facing_up: Статья в [сборнике тезисов]() [итоговой научно-образовательной конференции студентов Казанского Федерального Университета 2021]()
 #### :page_facing_up: Статья в [сборнике статей]() [итоговой научно-образовательной конференции студентов Казанского Федерального Университета 2021]()
-#### :tada: [Диплом победителя](./Pictures/README/KFU_best.png) в Конкурсе на лучшую научную работу студентов КФУ 2021г. по инженерно-техническому направлению.
+#### :tada: [Диплом победителя](https://disk.yandex.ru/i/4Ta8QjvJTkwXFg) в Конкурсе на лучшую научную работу студентов КФУ 2021г. по инженерно-техническому направлению.
 
 ###
 
