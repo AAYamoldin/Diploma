@@ -10,3 +10,5 @@
 /pulse/scripts/*
 /pulse/solvers/*
 /pulse/constants/*
+.idea
+.idea/*
